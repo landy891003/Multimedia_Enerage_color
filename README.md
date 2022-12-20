@@ -1,6 +1,6 @@
 # Multimedia_Enerage_color
 
-相關數學概念:
+相關內容:
 
 1. 梯度(能量)
 2. HSI與RGB轉換
